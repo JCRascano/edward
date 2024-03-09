@@ -61,6 +61,10 @@ transpose_m5x4
 mult_m5x4_inv <- m5x4 %*% transpose_m5x4
 mult_m5x4_inv
 
+# another
+mult_m5x4_inv
+
+
 
 
 
